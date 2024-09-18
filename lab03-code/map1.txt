@@ -1,0 +1,4 @@
+7 5 3
+1 0 Death_Crystals
+3 4 Mega_Seeds
+6 3 Flurbo_Stash

@@ -1,0 +1,43 @@
+Loading treasure map from binary file 'map2.bin'
+Reading map from binary file 'map2.bin'
+Allocating map struct
+Map is 9 by 13
+10 treasures on the map
+Allocating array of treasure locations
+Reading treasures
+Treasure at 5 2 called 'Sword'
+Treasure at 3 8 called 'Gauntlets'
+Treasure at 4 11 called 'Dusk'
+Treasure at 8 10 called 'Trident'
+Treasure at 1 12 called 'Baton'
+Treasure at 7 9 called 'TheMariner'
+Treasure at 8 2 called 'Mirror'
+Treasure at 3 9 called 'Quill'
+Treasure at 7 0 called 'Nithling'
+Treasure at 0 11 called 'Gold_Key'
+Completed file, closing
+Returning pointer to heap-allocated treasure_t
+
+==TREASURE MAP==
+...........J.
+............E
+.............
+........BH...
+...........C.
+..A..........
+.............
+I........F...
+..G.......D..
+================
+A: Sword
+B: Gauntlets
+C: Dusk
+D: Trident
+E: Baton
+F: TheMariner
+G: Mirror
+H: Quill
+I: Nithling
+J: Gold_Key
+
+Deallocating map
